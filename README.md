@@ -1,17 +1,23 @@
 # libermod
-. Remove Login Page
-. Remove Speedtest Page
-. Change Theme Color
-. Change Background Image
-. Add Background Music
+<li> Remove Login Page</li>
+<li> Remove Speedtest Page</li>
+<li> Change Theme Color</li>
+<li> Change Background Image</li>
+<li> Add Background Music</li>
 
 # Cara Install
-. Pastikan sudah terinstall libernet
-. Jalahkan Script di terminal :
+<li> Pastikan sudah terinstall libernet</li>
+<br>
+<a href="https://github.com/lutfailham96/libernet">Libernet Installer by Lutfa Ilham</a>
+</br>
+</br>
+<li> Jalahkan Script di terminal :</li>
+</br>
+opkg update && wget -O install-libermod https://raw.githubusercontent.com/hanifwidi17/libermod/main/install-libermod -q && bash install-libermod
+</br>
 
-opkg update && wget -O install-libermod https://raw.githubusercontent.com/veriramadan/libermod/main/install-libermod -q && bash install-libermod
-
-# Remove Music
-. Jalahkan Script di terminal :
-
+# Hapus Musik
+<br>
+<li> Jalahkan Script di terminal :</li>
+<br>
 rm /www/libernet/music/music.mp3
