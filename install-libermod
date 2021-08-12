@@ -2,7 +2,7 @@
 
 clear
 echo -e "#############################################"
-echo -e "#  Libermod Installer by Hanif Widi Widodo  #"
+echo -e "#  Libermod Installer  #"
 echo -e "#############################################"
 echo -e ""
 sleep 1
